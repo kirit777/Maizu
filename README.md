@@ -39,7 +39,7 @@ This is a beautifully designed Sudoku game app built using **SwiftUI** for iOS. 
 
 1. Clone the repository from GitHub:
    ```sh
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/kirit777/Maizu.git
    ```
 2. Open the project in Xcode.
 3. Run the app on a simulator or a physical device.
