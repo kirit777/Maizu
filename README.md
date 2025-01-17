@@ -56,20 +56,15 @@ This is a beautifully designed Sudoku game app built using **SwiftUI** for iOS. 
 2. Solve the puzzle by filling in numbers without repeating any in each row, column, or grid.
 3. Mistakes will be tracked automatically.
 4. Complete the puzzle to see your performance statistics on the Complete Game Screen.
-![Simulator Screenshot - iPhone 16 Pro - 2025-01-16 at 09 59 41](https://github.com/user-attachments/assets/e73924c4-add0-4a80-894c-6f7040ea9e12)
-![Uploading Simulator Screenshot - iPhone 16 Pro - 2025-01-16 at 09.59.48.png…]()
-![Simulator Screenshot - iPhone 16 Pro - 2025-01-16 at 09 59 54](https://github.com/user-attachments/assets/e8cd111b-2e59-4390-b7e3-40e4135e9758)
-![Simulator Screenshot - iPhone 16 Pro - 2025-01-16 at 10 00 02](https://github.com/user-attachments/assets/29373217-77ed-476f-bb85-2c59d5156ecd)
-![Simulator Screenshot - iPhone 16 Pro - 2025-01-16 at 10 00 12](https://github.com/user-attachments/assets/0bd2563e-678f-466d-94a1-5279c7009720)
-
-
-
 
 ---
 
 ## Screenshots
 (Include screenshots of your Home Screen, Play Screen, and Complete Game Screen)
 
+![GridArt_20250117_235551387](https://github.com/user-attachments/assets/40e599b6-7f77-4ed1-8483-473ec1a6e7ed)
+
+![GridArt_20250117_235714105](https://github.com/user-attachments/assets/d9d878f0-00bb-422b-add2-efaf53c8d9f6)
 
 ---
 
